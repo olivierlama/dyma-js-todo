@@ -1,7 +1,7 @@
 {
-  "name": "parse-json",
+  "name": "to-do",
   "version": "1.0.0",
-  "description": "",
+  "description": "To do list",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
