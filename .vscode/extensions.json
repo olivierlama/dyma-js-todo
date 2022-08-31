@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "mhutchie.git-graph",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "pkief.material-icon-theme",
+    "ritwickdey.LiveServer"
+  ]
+}
