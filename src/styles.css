@@ -39,6 +39,7 @@ button {
   border-radius: 5px;
   cursor: pointer;
   margin: 0 3px;
+  outline: 0;
 }
 input {
   padding: 8px 15px;
@@ -71,4 +72,8 @@ li .todo {
 
 li .todo.done {
   background: #333;
+}
+
+li input {
+  flex: 1;
 }
